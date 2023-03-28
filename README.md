@@ -36,7 +36,3 @@
   <p align="center">
 </p>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2namkyung&exclude_repo=&layout=compact&theme=tokyonight" />
-</p>
